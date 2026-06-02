@@ -10,3 +10,12 @@ title: Frequently asked questions
 
 ## Are we affilated with the Asahi Linux project?
 No, despite a similar purpose (running an unsupported OS on Apple Silicon hardware), we are *not* connected to said project/organization.
+
+## Can you play games on this?
+For the most part, no, due to several reasons:
+
+1. Due to the nature of Apple Silicon Macs, they use ARM64, not x64 like most games are made for, despite there being emulation methods.
+
+2. The GPU driver, needed for sensible performance in games, is far away from being completed.
+
+3. Games with kernel mode anti-cheat will likely never support x64 to ARM64 translation, nor the various techniques we use to boot Windows.
