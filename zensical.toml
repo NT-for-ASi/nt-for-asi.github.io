@@ -25,6 +25,9 @@ nav = [
     { "Project Information" = [
         "project-info/faq.md"
     ]},
+        { "User Tutorials" = [
+        "user-tutorials/overview.md"
+    ]},
 ]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
