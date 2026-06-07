@@ -11,7 +11,7 @@
 site_name = "NT for Apple Silicon Project"
 site_description = "The documentation hub for the NT for Apple Silicon Project"
 site_author = "Orangera1n"
-#site_url = "https://www.example.com/"
+site_url = "https://nt-for-asi.github.io/"
 copyright = """
 Copyright &copy; 2026 NT For Apple Silicon Project
 """
